@@ -1,4 +1,4 @@
-const container= document.getElementById("chocolate-branco")
+const container= document.getElementById("container")
 const registerBtn = document.getElementById("register")
 const loginBth = document.getElementById("login")
 
